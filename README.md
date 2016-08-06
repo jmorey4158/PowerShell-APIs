@@ -22,3 +22,6 @@ I wanted people to see my work and perhaps spark some ideas...
 
 So, enjoy the code!
 
+##P.S.
+The Powershell Scripts that I created totest these cmdlets is in another Repostory : <a href="https://github.com/jmorey4158/PowerShell/tree/master/NinjaPowerShell" target="_blank">NinjaPowerShell (Open in Another Tab)</a>
+
